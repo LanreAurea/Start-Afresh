@@ -1,0 +1,9 @@
+This Lista the services which ride on Amazon's Cloud Technology.
+1. EC2
+2. S3
+3. Lambda
+4. Redshift
+5. Glacier
+6. Lex
+
+ The plan is to use them to build a Lesson teacher that can do homework with kids when they come back from school.
